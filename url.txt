@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="我是�?隻弱小的毛毛蟲，想像有天可以成為強壯的挖土機，擁有挖掘夢想的神奇手套�?">
+    <meta property="og:locale" content="zh_TW">
+    <meta property="og:title" content="良葛格學習筆�?">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://openhome.cc/Gossip/index.html">
+    <meta property="og:image" content="https://openhome.cc/Gossip/images/caterpillar_small.jpg">
+    <meta property="og:site_name" content="OPENHOME.CC">
+    <meta property="og:description" content="我是�?隻弱小的毛毛蟲，想像有天可以成為強壯的挖土機，擁有挖掘夢想的神奇手套�?">
+    <title>良葛格學習筆�?</title>
+    <link rel="stylesheet" href="css/pure-0.6.0/pure-min.css">
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="css/layouts/side-menu-old-ie.css">    <![endif]-->
+    <!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="css/layouts/side-menu.css">
+    <!--<![endif]-->
+    <link rel="stylesheet" href="css/caterpillar.css">
+    <script async="" src="google-code-prettify/run_prettify.js"></script>
+    <!-- 網頁層級廣告 -->
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>(adsbygoogle =window.adsbygoogle || []).push({google_ad_client: "ca-pub-9750319131714390",enable_page_level_ads: true });</script>
+  </head>
+  <body>
+    <div id="layout">
+      <!-- Menu toggle --> <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon --> <span></span> </a>
+      <div id="menu">
+        <div class="pure-menu">
+          <div style="text-align: center;"><a class="pure-menu-heading" href="../">OPENHOME.CC</a></div>
+          <br>
+          <div id="search box">
+            <script>
+  (function() {
+    var cx = 'partner-pub-9750319131714390:3926766884';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script><gcse:searchbox-only></gcse:searchbox-only></div>
+          <ul class="pure-menu-list">
+            <li class="pure-menu-item"><br>
+              <div class="ad" style="text-align: center;">
+                <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- 2015 新版�? 160 x 600 廣告 --> <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px"
+                  data-ad-client="ca-pub-9750319131714390" data-ad-slot="3747048883"></ins>
+                <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+                </script></div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <main id="main">
+        <header class="header"> <a href="../"><img id="logo" alt="良葛格學習筆�?" src="images/caterpillar_small_front.jpg"></a>
+          <a href="mailto:caterpillar@openhome.cc"><img title="電子郵件" alt="電子郵件"
+              src="images/email.png"></a> <a href="http://twitter.com/caterpillar"><img
+              title="Twitter" alt="Twitter" src="images/twitter.png"></a> <a href="http://www.facebook.com/openhome.cc"><img
+              title="Facebook" alt="Facebook" src="images/facebook.png"></a>  <a href="https://github.com/JustinSDK"><img
+              title="Github" alt="Github" src="images/github.png"></a> <a href="http://www.linkedin.com/in/caterpillar"><img
+              title="LinkedIn" alt="LinkedIn" src="images/Linkedin.png"></a> <a
+            href="https://www.thingiverse.com/JustinSDK/"><img title="Thingiverse"
+              alt="Thingiverse" src="images/thingiverse.png"></a> <br>
+          <br>
+        </header>
+        <nav class="content">
+          <section>
+            <p> </p>
+            我是�?隻弱小的毛毛蟲，想像有天可以成為強壯的挖土機，擁有挖掘夢想的神奇手套�?
+            <dl>
+              <dt>泛談文章</dt>
+            </dl>
+            <ul>
+              <li><a href="CodeData/">CodeData 專欄</a></li>
+              <li><a href="Programmer/">程式人專�?</a>（�?�載�?...�?</li>
+              <li><a href="Twitter/">Twitter 語錄</a>（不定時更新�?</li>
+              <li><a href="StudyGossip/">初心者之�?</a>（尚無更新）</li>
+            </ul>
+            <p><br>
+            </p>
+            <dl>
+              <dt>非關語言</dt>
+            </dl>
+            <ul>
+              <li><a href="Computation/">運算隨想</a>�?2018�?</li>
+              <li><a href="AlgorithmGossip/">常見程式演算</a>�?2018/9 <a href="AlgorithmGossipUpdate.html">更新</a>�?</li>
+              <li><a href="ComputerGraphics/">電腦圖學入門</a>�?2011/1 <a href="ComputerGraphicsUpdate.html">更新</a>�?</li>
+              <li><a href="OpenSCAD/">OpenSCAD</a>�?2017�?</li>
+              <li><a href="DesignPattern/">設計模式</a>�?2012/11 <a href="DesignPatternUpdate.html">更新</a>�?</li>
+              <li><a href="Encoding/">亂碼 1/2</a>�?2019/12 <a target="_top" href="EncodingUpdate.html">更新</a>�?</li>
+            </ul>
+            <br>
+            <dl>
+              <dt>語言實作</dt>
+            </dl>
+            <ul>
+              <li><a href="WebAssembly/">WebAssembly</a>�?2018�?</li>
+              <li><a href="Regex/">Regex</a>�?<a href="RegexUpdate.html">2019/12</a>�?</li>              
+              <li><a href="Toy/">Toy</a>�?2018�?</li>
+            </ul>
+            <br>
+            <dl>
+              <dt>靜態語言 Go / C / C++</dt>
+            </dl>
+            <ul>
+              <li><a href="Go/">Go 語言</a>�?2019/12 <a target="_top" href="GoUpdate.html">更新</a>�?</li>
+              <li><a href="CGossip/">C 語言</a>�?2020/2 <a target="_top" href="CUpdate.html">更新</a>�?</li>
+              <li><a href="CppGossip/">C++</a>�?2020/2 <a target="_top" href="CPPUpdate.html">更新</a>�?</li>
+              <li><a href="GTKGossip/">GTK</a>（尚無更新）</li>
+              <li><a href="Qt4Gossip/">Qt4</a>�?2008/6/17 <a target="_top" href="Qt4GossipUpdate.html">更新</a>�?</li>
+            </ul>
+            <br>
+            <div class="ad-2" style="text-align: center;">
+              <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- 2015 新版型回應式廣告 --> <ins class="adsbygoogle" style="display:block"
+                data-ad-client="ca-pub-9750319131714390" data-ad-slot="7104125683"
+                data-ad-format="auto"></ins>
+              <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+<br>
+            <dl>
+              <dt>靜態語言 Haskell / Java / Scala</dt>
+            </dl>
+            <ul>
+              <li class="bold_red"><a href="CodeData/HaskellTutorial/">Haskell</a>�?2016�?</li>
+              <li class="bold_red"><a class="bold_red" href="Java/">Java</a>�?<a
+                  href="Java/index.html#JDK9">JDK9 !!</a>�?</li>
+              <li><a href="JavaEssence/">Java 本質部份</a>�?2018/12 <a href="JavaEssenceUpdate.html">更新</a>�?</li>
+              <li><a href="Scala/">Scala</a>�?2012/3 <a target="_top" href="ScalaUpdate.html">更新</a>�?</li>
+            </ul>
+            <br>
+            <dl>
+              <dt>動態語言 Python / Ruby / JavaScript</dt>
+            </dl>
+            <ul>
+              <li><a href="Python/">Python</a>�?2012/12 <a href="PythonUpdate.html">更新</a>�?</li>
+              <li><a href="Ruby/">Ruby</a>�?2012/1 <a target="_top" href="RubyUpdate.html">更新</a>�?</li>
+              <li><a href="Rails/">Rails</a>�?2013/3 <a href="RailsUpdate.html">更新</a>�?<br>
+              </li>
+              <li><a href="ECMAScript/">ECMAScript 本質部份</a>�?2018/11/9 <a href="ECMAScriptUpdate.html">更新</a>�?</li>
+              <li><a href="JavaScript/">JavaScript 本質部份</a>�?2013/8/11 <a href="JavaScriptUpdate.html">更新</a>�?</li>
+            </ul>
+            <br>
+            <dl>
+              <dt>API / 程式�? / 框架</dt>
+            </dl>
+            <ul>
+              <li><a href="WebGL/">WebGL</a>�?2019/5�? </li>            
+              <li><a href="ServletJSP/">Servlet/JSP</a>�?2017/11 <a href="ServletJSPUpdate.html">更新</a>�? </li>
+              <li><a href="JSF/">JSF</a>（尚無更新）</li>
+              <li><a href="EJB3Gossip/">EJB3</a>�?2009/7 <a target="_top" href="EJB3Update.html">更新</a>�?</li>
+              <li><a href="JUnit/">JUnit</a>�?2012/11/7 <a target="_top" href="JUnitUpdate.html">更新</a>�?</li>
+              <li><a href="Struts/">Struts</a>�?2010/10 <a target="_top" href="StrutsGossipUpdate.html">更新</a>�? </li>
+              <li><a href="Spring/">Spring</a>�?2019/1�?</li>
+              <li><a href="HibernateGossip/">Hibernate</a>�?2011/3 <a href="HibernateGossipUpdate.html">更新</a>�?</li>
+            </ul>
+            <br>
+          </section>
+          <section>
+            <hr> <a id="Books">現役的�?�人�?/譯作�? </a>
+            <dl>
+              <dt>碁峰出版（紙本或電子書）</dt>
+            </dl>
+            <a href="http://books.gotop.com.tw/v_AEL022800"><img title="JavaScript �?術手�?"
+
+                src="images/AEL022800.jpg" alt="JavaScript �?術手�?"></a>             
+            <a href="http://books.gotop.com.tw/v_ACL054400"><img title="Python 3.7 �?術手�?"
+
+                src="images/ACL054400.jpg" alt="Python 3.7 �?術手�?"></a> 
+                
+            <a href="http://books.gotop.com.tw/v_AEL020800"><img title="Servlet &amp; JSP �?術手�?"
+                src="images/AEL020800.jpg" alt="Servlet&amp;JSP �?術手�?"></a> <a href="http://books.gotop.com.tw/v_ACL052100"><img
+                title="Java SE 9 �?術手�?" src="images/ACL052100.jpg" alt="Java SE 9 �?術手�?"></a>
+            <a href="http://books.gotop.com.tw/v_AXP015600"><img
+                title="jQuery 實戰手冊第三�?" src="images/jQuery3.JPG" alt="jQuery 實戰手冊第三�?"></a>
+            <a href="http://books.gotop.com.tw/v_A418"><img title="Java 8 Lambdas �?術手�?"
+                src="images/A418.jpg" alt="Java 8 Lambdas �?術手�?"></a> <br>
+            <br>
+            <dl>
+              <dt>自行出版（Google Play 電子書）</dt>
+            </dl>
+            <a href="https://play.google.com/store/books/details?id=IYqPAgAAQBAJ"><img
+                title="Java SE 6 �?術手�?" src="images/JavaSE6Tutorial.jpg" alt="Java SE 6 �?術手�?"></a>
+            <a href="https://play.google.com/store/books/details?id=iwvMAgAAQBAJ"><img
+                title="Java Lambda Tutorial" src="images/JavaLambdaTutorial.jpg"
+                alt="Java Lambda Tutorial"></a> <a href="https://play.google.com/store/books/details?id=eYb3AgAAQBAJ"><img
+                title="Python Tutorial" src="images/PythonTutorial.jpg" alt="Python Tutorial"></a>
+            <a href="https://play.google.com/store/books/details?id=LaJbAwAAQBAJ"><img
+                title="Java Tutorial" src="images/JavaTutorial.jpg" alt="Java Tutorial"></a>
+            <a href="https://play.google.com/store/books/details?id=VhbEAwAAQBAJ"><img
+                title="Essential JavaScript" src="images/EssentialJavaScript.jpg"
+                alt="Essential JavaScript"></a> <a href="https://play.google.com/store/books/details?id=TAn3BgAAQBAJ"><img
+                title="Haskell Tutorial" src="images/HaskellTutorial.JPG" alt="Haskell Tutorial"></a><br>
+            <a href="http://www.pubu.com.tw/store/678807">&gt;&gt; Pubu 電子書店</a>
+            <br>
+            <br>
+          </section>
+          <section>
+            <hr> <br>
+            <div class="ad-3" style="text-align: center;">
+              <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+              <!-- 2015 新版型回應式廣告 --> <ins class="adsbygoogle" style="display:block"
+                data-ad-client="ca-pub-9750319131714390" data-ad-slot="7104125683"
+                data-ad-format="auto"></ins>
+              <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div> <br>
+            書籍勘誤、投影片、活動簡報等零零散散的資�? ...
+            <dl>
+              <dt>書籍相關</dt>
+            </dl>
+            <ul>
+              <li><a href="Books/index.html#JavaScript"><span style="color: red;"><strong>JavaScript �?術手�?</strong></span></a></li>            
+              <li><a href="Books/index.html#Python37">Python 3.7 �?術手�?</a></li>
+              <li><a href="Books/index.html#ServletJSPTutorial">Servlet&amp;JSP �?術手�?</a></li>
+              <li><a href="Books/index.html#Java9">Java SE 9 �?術手冊資�?</a></li>
+              <li><a href="Books/index.html#Python35">Python 3.5 �?術手冊資�?</a><br>
+              <li><a href="Books/index.html#mBlockArduino">�? mBlock �? Arduino - Starting from Scratch</a></li>
+              <li><a href="Books/index.html#Java8">Java SE 8 �?術手冊資�?</a></li>
+              <li><a href="http://www.codedata.com.tw/forum/viewthread.php?tid=174&amp;extra=page%3D1">Java SE 6 �?術手冊全書開�?</a></li>
+              <li><a href="Books/index.html#Java7">Java SE 7 �?術手冊資�?</a></li>
+              <li><a href="Books/index.html#ServletJSP">Servlet &amp; JSP 教學手冊第二版資�?</a></li>
+              <li><a href="Books/index.html#Spring">Spring 2.0 �?術手冊全書開�?</a></li>
+            </ul>
+            <br>
+            <dl>
+              <dt>活動簡報</dt>
+            </dl>
+            <ul>
+              <li><span style="font-weight: bold;"><a href="https://www.slideshare.net/JustinSDK/security-2019">網站系統安全及資料保護設計認�? 2019 </a></span></li>
+              <li><a href="https://www.slideshare.net/JustinSDK/pythonedition">讓程式展現樂�? - 玩出實驗精神與創造力（Python 版）</a></li>
+              <li><a href="https://www.slideshare.net/JustinSDK/web-127313423">不�?�擊�? Web 教學</a></li>
+              <li><a href="https://www.slideshare.net/JustinSDK/ss-77697760">網站系統安全及資料保護設計認�? </a></li>
+              <li><a href="https://www.slideshare.net/JustinSDK/3d-openscad-73580644">3D 之邏輯與美感交會 - OpenSCAD</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/openscad-workshop">3D 列印 Workshop - OpenSCAD</a><br>
+                <strong></strong></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/arduinoweb-iot">Arduino、Web �? IoT</a><br>
+                <span style="font-weight: bold;"></span></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/ss-54463912">讓程式展現樂�? - 玩出實驗精神與創造力</a>�?<a href="http://www.ntsec.gov.tw/FileAtt.ashx?id=2560">科學研習月刊文章</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/java-8-retrolambda">2015 放視大賞 - Java 8 �? retrolambda</a></li>
+              <li><a href="http://www.codedata.com.tw/social-coding/java8-patterns/">2014 JCConf - Java 8 Patterns</a></li>
+              <li><a href="http://www.codedata.com.tw/java/jdk8-functional-api/">2014 Java TWO - JDK8 Functional API</a></li>
+              <li><a href="http://www.codedata.com.tw/social-coding/understanding-typing-understanding-ruby/">2014 Ruby Conf Taiwan - Understanding Typing. Understanding Ruby.</a></li>
+              <li><a href="http://www.codedata.com.tw/java/groovy-gradle-abc/">2013 JCD - 淺談 Groovy �? Gradle</a></li>
+              <li><a href="https://openhome.cc/Gossip/CodeData/index.html#JodaJSR310">2013 Java TWO - JodaTime &amp; JSR310</a></li>
+              <li><a href="https://openhome.cc/Gossip/CodeData/index.html#PythonTutorial">PyCon Taiwan 2013 Tutorial</a></li>
+              <li><a href="https://openhome.cc/Gossip/CodeData/index.html#JavaLambdaTutorial">2012 JCD - FP for Java</a></li>
+              <li><a href="https://openhome.cc/Gossip/CodeData/index.html#JavaLambdaTutorial">2012 Java TWO - Lambda</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/java-se-7-16416409">2011 Java TWO - Java SE 7</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/lambdaclosure-javascriptpythonscala-java-se-7">2010 JCD - Lambda/Closure</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/web-tomcat">2009 JCD - 深入淺出 Web 容器</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/openejb">2009 Java TWO - OpenEJB</a></li>
+              <li><a href="http://www.slideshare.net/JustinSDK/java-web-16412520">2007 JCD - Web 效能與安�?</a></li>
+            </ul>
+          </section>
+        </nav>
+      </main>
+    </div>
+    <script src="js/ui.js"></script>
+    <div class="analytics">
+      <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-143766-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div>
+  </body>
+</html>

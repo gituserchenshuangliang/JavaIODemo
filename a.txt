@@ -1,0 +1,158 @@
+package com.io.demo;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.OutputStream;
+import java.io.PrintStream;
+import java.io.Serializable;
+import java.net.URL;
+import java.util.Scanner;
+
+/**
+ * IO学习
+ * 字节流
+ * @author Cherry
+ * 2020年4月8日
+ */
+public class ByteStream {
+
+	public static void main(String[] args) throws FileNotFoundException, IOException, ClassNotFoundException {
+		//数据来源：网络，数据目的地：文件
+//		pipe(new URL("https://openhome.cc/Gossip/").openStream(),new FileOutputStream(new File("url.txt")));
+		
+		//数据来源：文件，数据目的地：文件
+//		pipe(new FileInputStream(new File(args[0])),new FileOutputStream(new File(args[1])));
+		
+		//数据来源：网络，数据目的地：PrintStream控制台
+//		pipe(new URL("https://openhome.cc/Gossip/").openStream(),System.out);
+		
+		//标准输入
+//		standardStream();
+//		standardStreamT();
+		
+		//数据来源：byte数组，数据目的地：byte数组
+//		byteArrayStream();
+		
+		//数据先读入缓冲区，避免多次对硬盘文件进行操作
+//		bufferStream(new FileInputStream(new File(args[0])),new FileOutputStream(new File(args[1])));
+
+		//数据来源：对象 ,数据目的地：对象
+		objectStream();
+	}
+	
+	public static void pipe(InputStream is ,OutputStream op) throws IOException {
+		try(InputStream src = is ;OutputStream dest = op){
+			int length;
+			byte[] b = new byte[src.available()];
+			while((length = src.read(b)) != -1) {
+				op.write(b, 0, length);
+			}
+		}
+	}
+	//标准输入输出流
+	public static void standardStream() throws IOException {
+		//设置标准输入为文件，默认为纯文字
+		System.setIn(new FileInputStream(new File("url.txt")));
+		//设置标准输出为文件，默认为控制台
+		System.setOut(new PrintStream(new FileOutputStream(new File("url0.txt"))));
+		PrintStream ps = System.out;
+		try(Scanner scan = new Scanner(System.in)){
+			while(scan.hasNext()) {
+				//System.out.println(scan.nextLine());
+				ps.write(scan.nextLine().getBytes());
+			}
+		}
+	}
+	
+	public static void standardStreamT() throws FileNotFoundException {
+		System.setOut(new PrintStream(new FileOutputStream(new File("out.log"))));
+		try(PrintStream ps = System.out;){
+			ps.println("输出到log文件！");
+			System.out.println("依然输出到log文件！");
+		}
+	}
+	
+	public static void byteArrayStream() throws IOException {
+		byte[] src = "Hello world !".getBytes();
+		byte[] dest;
+		ByteArrayInputStream bais = new ByteArrayInputStream(src);
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		pipe(bais,baos);
+		dest = baos.toByteArray();
+		System.out.println(dest.toString());
+	}
+	
+	public static void bufferStream(InputStream is ,OutputStream op) throws IOException {
+		//数据读入缓存，避免多次读取浪费资源
+		try(BufferedInputStream bis = new BufferedInputStream(is);
+			BufferedOutputStream bos = new BufferedOutputStream(op);){
+			int length;
+			byte[] b = new byte[bis.available()];
+			while((length = bis.read(b)) != -1) {
+				bos.write(b, 0, length);
+			}
+		}
+	}
+	
+	public static void objectStream() throws FileNotFoundException, IOException, ClassNotFoundException {
+		Teacher[] te = {new Teacher(1,"Jack",23,"Math"),new Teacher(2,"Marry",15,"Math"),new Teacher(3,"Jhon",34,"Math")};
+		for (Teacher t : te) {
+			t.save();
+		}
+		Teacher t = new Teacher().load(1);
+		System.out.println(t);
+	}
+	
+	
+}
+
+class Teacher implements Serializable{
+	public int id;
+	public String name;
+	public int age;
+	public String major;
+	
+	public Teacher() {
+		super();
+	}
+	public Teacher(int id, String name, int age, String major) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+		this.major = major;
+	}
+	@Override
+	public String toString() {
+		return "Teacher [id=" + id + ", name=" + name + ", age=" + age + ", major=" + major + "]";
+	}
+	
+	public void save() throws FileNotFoundException, IOException {
+		try(ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(this.id+""))){
+			oos.writeObject(this);
+		}
+	}
+	
+	public Teacher load(int id) throws FileNotFoundException, IOException, ClassNotFoundException {
+		Teacher tea;
+		try(ObjectInputStream ois = new ObjectInputStream(new FileInputStream(id+""))){
+			tea = (Teacher) ois.readObject();
+		}
+		return tea;
+	}
+}
+
+
+
+
+
